@@ -1,10 +1,7 @@
-Aquí tienes un ejemplo de un README en inglés para una organización enfocada en juegos móviles:
-
----
 
 # 📱 Mobile Games Studio
 
-Welcome to **Mobile Games Studio**! We are a passionate team dedicated to creating engaging and fun mobile games. Our mission is to bring joy to players worldwide through innovative gameplay and captivating experiences. Whether you’re a player looking for your next favorite game or a developer interested in joining our team, this README will provide you with all the necessary information about our organization.
+Welcome to **Mobile Games Studio**! We are a passionate team dedicated to creating engaging and fun mobile games. Our mission is to bring joy to players worldwide through innovative gameplay and captivating experiences. Guided by our motto, *"Let curiosity inspire you,"* we aim to push the boundaries of creativity and deliver memorable gaming experiences.
 
 ## 🎮 About Us
 
@@ -25,7 +22,7 @@ You can find our games on [Google Play](#) and [Apple App Store](#).
 ## 🛠️ Technologies We Use
 
 We utilize cutting-edge technology to develop our games:
-- **Game Engine:** Unity / Unreal Engine / Flutter
+- **Game Engine:** Flutter
 - **Languages:** C#, Swift, Kotlin, Dart
 - **Design Tools:** Photoshop, Illustrator, Blender
 
@@ -43,17 +40,9 @@ To apply, please send your resume and portfolio to [email@mobilegamesstudio.com]
 
 Got any questions, feedback, or just want to say hi? Feel free to reach out to us:
 - **Email:** [support@mobilegamesstudio.com](mailto:support@mobilegamesstudio.com)
-- **Twitter:** [@MobileGamesStudio](#)
-- **Discord:** [Join our community](#)
-
-## 📄 License
-
-All of our games and content are licensed under the [MIT License](LICENSE).
 
 ---
 
 Thank you for being part of our journey in the mobile gaming world! We hope you enjoy our games as much as we enjoy making them.
 
 ---
-
-This README should provide a solid foundation for your organization's page. You can customize the sections as needed to fit your specific needs.
